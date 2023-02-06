@@ -5,6 +5,7 @@
         public ProdutoCasaZ(List<Familia> familiasPretendentes)
         {
             FamiliasPretendentes = familiasPretendentes;
+
             ObterPontuacao();
         }
 
