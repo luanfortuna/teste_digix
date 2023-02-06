@@ -12,17 +12,17 @@ namespace ProdutoVendaFamilias
             { new Familia()
             { Pretendente = "Giovane",
                 Renda = 901,
-                Dependentes = new List<Pessoa>() { new Pessoa() { Idade = 42, Nome = "jajaja" } }
+                Dependentes = new List<Pessoa>() { new Pessoa() { Idade = 42, Nome = "Mariana" } }
             },
               new Familia()
             { Pretendente = "Luan",
               Renda = 500,
-              Dependentes = new List<Pessoa>() { new Pessoa() { Idade = 16, Nome = "hahaha" } }
+              Dependentes = new List<Pessoa>() { new Pessoa() { Idade = 16, Nome = "Marcos" } }
             },
               new Familia()
-            { Pretendente = "Outra Pessoa",
+            { Pretendente = "Renan",
               Renda = 1500,
-              Dependentes = new List<Pessoa>()
+              Dependentes = new List<Pessoa>() { new Pessoa() { Idade = 21, Nome = "Cecilia" } }
             }
 
             };
